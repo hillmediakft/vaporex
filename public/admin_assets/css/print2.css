@@ -1,0 +1,13 @@
+table > thead tr.filter {
+    display: none;
+}
+table > thead tr.heading th:first {
+    display: none;
+}
+table tr td:first {
+    display: none;
+}
+
+table tr td div.actions:parent {
+    display: none;
+}
